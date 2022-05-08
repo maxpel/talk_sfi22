@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="621.41785"
+   height="555.60577"
+   viewBox="0 0 621.41785 555.60577"
+   sodipodi:docname="emotion_preprint.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,0.028 H 611.971 V 791.999 H 0 Z"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath482"><rect
+         style="fill:none;stroke-width:0.75"
+         id="rect484"
+         width="544.0108"
+         height="439.59869"
+         x="33.222034"
+         y="-776.56506"
+         transform="scale(1,-1)" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1375"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2642212"
+     inkscape:cx="232.65771"
+     inkscape:cy="163.59158"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" /><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Metzler et al. - 2021 - Collective Emotions during the COVID-19 Outbreak"
+     transform="matrix(1.3333333,0,0,-1.3333333,-96.161977,1004.8942)"><g
+       id="g12"
+       clip-path="url(#clipPath482)"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><g
+           id="g20"><text
+             transform="matrix(1,0,0,-1,72.1,745.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text24"><tspan
+               x="0 9.1850004 15.18 18.271 23.771 26.169001 32.273998 35.959 39.049999 45.154999 48.245998 51.249001 57.354 59.751999 62.942001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan22">Metzler et al. </tspan></text>
+</g><g
+           id="g26" /><g
+           id="g28"><text
+             transform="matrix(1,0,0,-1,180.1,745.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text32"><tspan
+               x="0 7.8979998 14.003 16.400999 18.799 24.903999 30.403999 33.494999 35.893002 41.393002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan30">Collective</tspan></text>
+</g><g
+           id="g34" /><g
+           id="g36"><text
+             transform="matrix(1,0,0,-1,230.9,745.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text40"><tspan
+               x="0 7.3039999 16.489 22.594 25.684999 28.083 34.188 40.292999 45.881001 48.883999 54.988998 61.094002 64.778999 67.177002 73.281998 79.474998 82.566002 85.569 91.674004 97.866997 100.87 108.768 117.359 124.663 127.754 135.65199 139.33701 145.442 151.63499 154.638 163.229 169.224 172.315 178.42 182.105 188.21001 194.315"
+               y="0"
+               sodipodi:role="line"
+               id="tspan38">Emotions during the COVID-19 Outbreak</tspan></text>
+</g><g
+           id="g42" /><g
+           id="g44"><text
+             transform="matrix(1,0,0,-1,525.5,745.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text48"><tspan
+               x="0"
+               y="0"
+               id="tspan46">1</tspan></text>
+</g><g
+           id="g50"><text
+             transform="matrix(1,0,0,-1,72.1,709.7)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text54"><tspan
+               x="0 7.3039999 13.409 17.698999 23.804001 26.895 33.594002 40.292999 43.383999 49.488998 52.580002 58.575001 61.666 64.757004 70.862 73.953003 80.057999 86.757004 93.456001 99.560997 102.652 108.757 114.862 120.967 127.072 130.16299 133.254 139.953 146.65199 149.743 155.84801 158.851 165.55 171.655 178.354 184.459 188.84801 191.851 194.942 201.047 204.138 210.243 213.84 216.931 219.93401 223.02499 226.116 232.815 239.51401 246.213 252.31799 256.608 263.30701 270.00601 273.09698 279.79599 286.58301 289.586 296.285 302.39001 308.495 312.884 315.88699 320.177 326.28201 332.38699 335.478 341.58301 350.17401 353.177 359.28201 365.98099 372.76801 375.771 378.862 384.96701 388.05801 394.75699 401.45599 405.14099 408.14401 414.24899 420.354 424.039"
+               y="0"
+               sodipodi:role="line"
+               id="tspan52">Version 1.2, 8 June 2021. This paper is still undergoing peer review and is not yet </tspan></text>
+</g><g
+           id="g56"><text
+             transform="matrix(1,0,0,-1,72.1,697)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text60"><tspan
+               x="0 6.6989999 13.398 20.097 23.1 26.191 32.296001 38.994999 45.099998 51.799 54.988998 57.992001 65.295998 68.387001 74.491997 80.597 86.702003 92.894997 95.898003 102.597 109.384 112.387 119.086 125.785 129.47 132.561 138.666 145.36501 152.064 158.257 161.25999 167.959 172.24899 175.34 181.44501 184.448 188.133 194.23801 197.32899 205.832 208.923 212.608 219.30701 226.006 232.705 236.39 239.481 245.586 252.285 255.97 262.66901 269.36801 273.65799 276.254 282.35901 285.45001 292.14899 298.254 302.54401 312.246 315.33701 321.44199 327.547 330.638 337.33701 344.03601"
+               y="0"
+               sodipodi:role="line"
+               id="tspan58">published. Please do not copy or cite without author's permission.</tspan></text>
+</g><g
+           id="g62"><text
+             transform="matrix(1,0,0,-1,110,632.6)"
+             style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text66"><tspan
+               x="0 14.4 26.6 32.18 37.759998 48.860001 59.959999 66.639999 72.220001 83.32 94.419998 100 113.3 131.08 143.28 149.88 155.46001 167.66 179.86 191.03999 196.62 208.82001 221.02 228.72 234.3 246.5 258.78 264.28 270.95999 283.16 294.26001 299.84 314.23999 329.82001 343.12 348.70001 363.10001 369.78 380.88"
+               y="0"
+               sodipodi:role="line"
+               id="tspan64">Collective Emotions during the COVID-19</tspan></text>
+</g><g
+           id="g68"><text
+             transform="matrix(1,0,0,-1,262.2,609.6)"
+             style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text72"><tspan
+               x="0 15.58 27.68 34.360001 46.560001 54.34 65.440002 76.540001 87.720001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan70">Outbreak </tspan></text>
+</g><g
+           id="g74"><text
+             transform="matrix(1,0,0,-1,112.6,562.4)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text78"><tspan
+               x="0 10.094 17.878 25.577999 33.362 41.146 48.93 52.821999 64.428001 72.211998 76.103996 83.103996 86.197998 93.982002 98.671997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan76">Hannah Metzler </tspan></text>
+</g><g
+           id="g80"><text
+             transform="matrix(1,0,0,-1,215.3,568)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text84"><tspan
+               x="0 4.3983002 6.6905999 11.1942 13.4865 17.990101 20.2824 24.6807"
+               y="0"
+               sodipodi:role="line"
+               id="tspan82">1,2,3,4,</tspan></text>
+</g><g
+           id="g86"><text
+             transform="matrix(1,0,0,-1,242.4,568)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text90"><tspan
+               x="0"
+               y="0"
+               id="tspan88">5</tspan></text>
+</g><g
+           id="g92"><text
+             transform="matrix(1,0,0,-1,246.9,562.4)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text96"><tspan
+               x="0 3.892 7.7839999 17.08 24.864 29.554001 37.338001 45.037998 49.728001 57.512001 61.403999 71.498001 74.592003 86.281998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan94">, Bernard Rimé</tspan></text>
+</g><g
+           id="g98"><text
+             transform="matrix(1,0,0,-1,341,568)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text102"><tspan
+               x="0"
+               y="0"
+               id="tspan100">6</tspan></text>
+</g><g
+           id="g104"><text
+             transform="matrix(1,0,0,-1,345.5,562.4)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text108"><tspan
+               x="0 3.892 7.7839999 19.389999 27.174 34.174 38.066002 47.362 55.146 58.240002 61.334 69.117996 73.807999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan106">, Max Pellert</tspan></text>
+</g><g
+           id="g110"><text
+             transform="matrix(1,0,0,-1,423.3,568)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text114"><tspan
+               x="0 4.3983002 6.6905999 11.1942"
+               y="0"
+               sodipodi:role="line"
+               id="tspan112">1,2,</tspan></text>
+</g><g
+           id="g116"><text
+             transform="matrix(1,0,0,-1,436.8,568)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text120"><tspan
+               x="0"
+               y="0"
+               id="tspan118">5</tspan></text>
+</g><g
+           id="g122"><text
+             transform="matrix(1,0,0,-1,441.3,562.4)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text126"><tspan
+               x="0 3.892 7.7839999 16.282 24.066 31.766001 43.456001 51.240002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan124">, Thomas</tspan></text>
+</g><g
+           id="g128"><text
+             transform="matrix(1,0,0,-1,121.3,546.3)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text132"><tspan
+               x="0 10.094 13.188 20.972 28.672001 36.456001 41.146 48.146 52.751999 60.535999 64.428001 72.211998 79.996002 83.888 91.671997 99.456001 102.55 110.25"
+               y="0"
+               sodipodi:role="line"
+               id="tspan130">Niederkrotenthaler</tspan></text>
+</g><g
+           id="g134"><text
+             transform="matrix(1,0,0,-1,236.5,551.9)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text138"><tspan
+               x="0"
+               y="0"
+               id="tspan136">3</tspan></text>
+</g><g
+           id="g140"><text
+             transform="matrix(1,0,0,-1,241,546.3)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text144"><tspan
+               x="0 3.892 7.7839999 17.08 24.864 32.647999 40.431999 44.324001 54.417999 57.512001 61.403999 71.498001 79.281998 83.174004 90.958 94.052002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan142">, Anna Di Natale</tspan></text>
+</g><g
+           id="g146"><text
+             transform="matrix(1,0,0,-1,342.9,551.9)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text150"><tspan
+               x="0 4.3983002 6.6905999 11.1942"
+               y="0"
+               sodipodi:role="line"
+               id="tspan148">1,2,</tspan></text>
+</g><g
+           id="g152"><text
+             transform="matrix(1,0,0,-1,356.4,551.9)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text156"><tspan
+               x="0"
+               y="0"
+               id="tspan154">5</tspan></text>
+</g><g
+           id="g158"><text
+             transform="matrix(1,0,0,-1,364.792,546.3)"
+             style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text162"><tspan
+               x="0 7.6999998 15.484 23.268 27.16 37.254002 45.037998 52.037998 55.132 62.916 66.807999 77.699997 85.400002 90.089996 97.089996 100.184"
+               y="0"
+               sodipodi:role="line"
+               id="tspan160">and David Garcia</tspan></text>
+</g><g
+           id="g164"><text
+             transform="matrix(1,0,0,-1,473,551.9)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text168"><tspan
+               x="0 4.5036001 6.7958999 11.1942"
+               y="0"
+               sodipodi:role="line"
+               id="tspan166">1,2,</tspan></text>
+</g><g
+           id="g170"><text
+             transform="matrix(1,0,0,-1,486.5,551.9)"
+             style="font-variant:normal;font-weight:normal;font-size:8.10000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text174"><tspan
+               x="0"
+               y="0"
+               id="tspan172">5</tspan></text>
+</g><g
+           id="g176"><text
+             transform="matrix(1,0,0,-1,108.4,512.8)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text180"><tspan
+               x="0 3.5007999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan178">1 </tspan></text>
+</g><g
+           id="g182"><text
+             transform="matrix(1,0,0,-1,113.7,508.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text186"><tspan
+               x="0 7.8979998 14.003 23.188 29.292999 31.691 37.796001 43.296001 45.694 48.785 54.373001 57.375999 64.68 70.18 72.578003 78.682999 84.788002 90.288002 96.580002 99.583 107.481 113.586 119.779 122.87 130.174 132.57201 138.677 144.782 150.88699 156.992 160.18201 163.185 168.685 174.78999 180.28999 186.395 189.48599 194.98599 198.077 204.18201 210.287 216.392 219.483 225.588 229.27299 232.276 239.58 242.67101 246.356 252.461 257.961 263.461 269.56601 272.65701 278.76199 284.867 287.95801 294.06299 300.168 306.27301 312.37799 315.46899 322.77301 325.17099 331.276 337.38101 343.48599 349.591 352.78101 355.784 363.08801 369.19299 374.69299 377.784 381.46899 383.867"
+               y="0"
+               sodipodi:role="line"
+               id="tspan184">Complexity Science Hub Vienna, Josefstaedter Strasse 39 1080 Vienna, Austria</tspan></text>
+</g><g
+           id="g188"><text
+             transform="matrix(1,0,0,-1,72.7,494.1)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text192"><tspan
+               x="0 3.5968001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan190">2 </tspan></text>
+</g><g
+           id="g194"><text
+             transform="matrix(1,0,0,-1,78,489.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text198"><tspan
+               x="0 7.8979998 14.003 20.108 23.198999 29.304001 32.988998 36.080002 39.171001 45.166 48.851002 51.942001 61.126999 67.232002 73.336998 75.735001 81.235001 87.339996 89.825996 92.917 100.221 103.312 109.307 112.398 114.796 120.296 123.387 125.785 131.285 136.785 139.87601 142.967 146.058 152.05299 155.144 161.24899 164.93401 174.119 180.114 183.205 185.603 191.103 196.69099 199.694 205.799 211.90401 218.097 221.188 224.19099 230.29601 233.38699 239.492 241.89 244.28799 246.686 252.791 258.896 265.00101 268.19101 271.28201 278.586 284.086 289.586 292.677 298.78201 307.96701 313.36801 316.45901 319.54999 328.73499 334.84 340.94501 343.34299 348.84299 354.948 357.43399 360.43701 368.33499 374.44 376.83801 382.33801 388.44299 392.12799 397.62799 400.026 403.117 408.70499 411.79599 417.901 420.992 423.995 431.29901 433.69699 439.802 445.90701 452.01199 458.117"
+               y="0"
+               sodipodi:role="line"
+               id="tspan196">Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna,</tspan></text>
+</g><g
+           id="g200"><text
+             transform="matrix(1,0,0,-1,215.9,477.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text204"><tspan
+               x="0 7.3039999 13.409 15.807 18.898001 25.003 27.400999 33.506001 39.611 45.111 50.611 56.804001 59.895 66 72.105003 75.195999 78.198997 84.304001 90.408997 96.514 102.707 105.798 113.102 115.5 121.605 127.71 133.815 139.92 143.11 146.11301 153.41701 159.522 165.022 168.11301 171.798 174.196"
+               y="0"
+               sodipodi:role="line"
+               id="tspan202">Spitalgasse 23, 1090 Vienna, Austria</tspan></text>
+</g><g
+           id="g206"><text
+             transform="matrix(1,0,0,-1,89.2,462.8)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text210"><tspan
+               x="0 3.5968001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan208">3 </tspan></text>
+</g><g
+           id="g212"><text
+             transform="matrix(1,0,0,-1,94.5,458.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text216"><tspan
+               x="0 7.8979998 14.003 16.400999 19.591 22.594 29.898001 36.002998 38.401001 43.901001 46.299 52.492001 58.685001 61.776001 69.674004 75.778999 81.278999 87.384003 93.488998 97.174004 102.674 108.779 111.87 119.174 122.265 131.45 137.55499 143.66 146.75101 152.856 155.254 158.345 166.243 172.34801 178.453 180.851 183.942 190.13499 193.138 200.442 204.127 210.23199 219.41701 225.522 228.61301 231.011 237.116 243.22099 246.312 249.403 257.30099 263.40601 269.51099 275.616 279.30099 282.392 291.577 297.68201 303.677 306.76801 309.85901 315.96399 319.05499 322.05801 329.362 335.46701 340.96701 343.36499 349.47 352.05499 355.05801 361.16299 367.26801 373.461 376.552 383.85599 387.54099 393.646 399.146 405.25101 411.35599 414.44699 416.845 422.345"
+               y="0"
+               sodipodi:role="line"
+               id="tspan214">Unit Suicide Research &amp; Mental Health Promotion, Department of Social and Preventive</tspan></text>
+</g><g
+           id="g218"><text
+             transform="matrix(1,0,0,-1,80.8,445.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text222"><tspan
+               x="0 9.1850004 15.29 21.395 23.792999 29.292999 31.691 37.796001 43.901001 47.091 50.094002 57.992001 64.097 70.202003 73.292999 79.398003 83.083 86.174004 89.264999 95.260002 98.945 102.036 109.34 115.445 121.55 123.948 126.346 131.93401 135.02499 142.923 149.028 155.133 157.53101 160.62199 166.72701 169.81799 172.909 182.09399 188.19901 194.304 196.702 202.202 208.30701 210.793 213.884 221.782 227.88699 230.285 235.785 241.89 245.575 251.075 253.47301 256.564 262.064 265.155 271.26001 274.35101 277.354 284.65799 287.056 293.16101 299.26599 305.371 311.47601 314.66599 317.75699 325.061 327.45901 333.564 339.66901 345.77399 349.45901 354.95901 361.064 363.46201 366.55301 372.65799 375.056 381.16101 387.26599 392.76599 398.354 404.547 407.638 413.74301 419.84799 422.939 425.94199 432.047 438.15201 444.25699"
+               y="0"
+               sodipodi:role="line"
+               id="tspan220">Medicine, Center for Public Health, Medical University of Vienna, Kinderspitalgasse 15, 1090</tspan></text>
+</g><g
+           id="g224"><text
+             transform="matrix(1,0,0,-1,268.8,433.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text228"><tspan
+               x="0 7.3039999 9.7019997 15.807 21.912001 28.017 34.122002 37.312 40.314999 47.618999 53.723999 59.223999 62.314999 66 68.398003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan226">Vienna, Austria</tspan></text>
+</g><g
+           id="g230"><text
+             transform="matrix(1,0,0,-1,130.1,418.9)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text234"><tspan
+               x="0 3.5007999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan232">4 </tspan></text>
+</g><g
+           id="g236"><text
+             transform="matrix(1,0,0,-1,135.4,414.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text240"><tspan
+               x="0 3.0910001 9.1960001 14.597 17.688 20.086 23.177 29.282 32.373001 38.478001 41.569 44.571999 50.676998 54.362 57.452999 66.043999 68.442001 74.546997 80.652 86.757004 89.154999 91.553001 97.140999 100.232 108.13 110.528 116.028 119.119 122.804 125.202 131.30701 137.412 140.50301 146.608 152.713 155.804 164.395 170.5 176.605 182.71001 185.80099 193.69901 199.804 205.304 211.409 217.51401 221.19901 226.69901 232.804 235.895 242 248.105 254.21001 257.30099 264.60501 270.70999 276.815 282.315 288.42001 291.51099 293.909 300.01401 306.11899 309.30899 312.31201 319.616 325.72101 331.22101 334.31201 337.99701 340.39499"
+               y="0"
+               sodipodi:role="line"
+               id="tspan238">Institute for Globally Distributed Open Research and Education, Austria</tspan></text>
+</g><g
+           id="g242"><text
+             transform="matrix(1,0,0,-1,98.6,400.2)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text246"><tspan
+               x="0"
+               y="0"
+               id="tspan244">5</tspan></text>
+</g><g
+           id="g248"><text
+             transform="matrix(1,0,0,-1,105.291,395.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text252"><tspan
+               x="0 3.0910001 9.1960001 14.597 17.688 20.086 23.177 29.282 32.373001 38.478001 41.569 47.563999 50.654999 53.745998 56.837002 62.832001 65.922997 72.028 75.712997 81.818001 87.318001 90.408997 92.806999 98.306999 104.5 107.503 114.807 120.307 125.807 128.89799 135.00301 144.188 149.688 152.69099 158.79601 164.901 171.09399 174.185 182.08299 188.188 191.27901 197.384 200.38699 207.69099 213.19099 215.589 221.694 227.799 233.299 239.40401 242.59399 245.685 252.384 258.48901 263.98901 270.09399 272.492 275.58301 281.08301 284.17401 290.27899 293.37 296.37299 304.271 310.37601 319.561 325.66599 331.771 334.862 340.96701 344.65201 347.74301 355.047 360.547 362.94501 369.04999 375.155 380.655 386.84799 389.939 396.04401 402.14899"
+               y="0"
+               sodipodi:role="line"
+               id="tspan250">Institute of Interactive Systems and Data Science, Faculty of Computer Science and</tspan></text>
+</g><g
+           id="g254"><text
+             transform="matrix(1,0,0,-1,76.9,383.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text258"><tspan
+               x="0 7.3039999 9.7019997 15.807 24.992001 31.097 37.202 39.599998 45.099998 51.292999 53.778999 56.869999 64.174004 70.278999 76.384003 78.781998 84.887001 90.991997 97.097 100.782 103.18 109.285 115.39 118.58 121.671 130.174 133.85899 139.964 145.464 148.55499 156.453 162.558 164.95599 170.45599 176.561 180.246 185.746 188.144 191.235 196.823 199.826 205.931 209.022 212.11301 218.812 224.91701 230.41701 236.522 242.627 248.73199 251.13 257.23499 263.34 268.84 272.03 278.12399 281.215 287.20999 290.30099 293.392 299.49701 301.89499 308 314.10501 320.20999 325.70999 331.20999 337.40302 340.49399 346.599 352.70401 360.60199 363.69299 366.784 372.88901 378.99399 385.099 391.20401 394.29501 402.798 406.483 412.58801 418.08801 421.17899 424.26999 431.57401 437.67899 443.17899 446.18201 449.867 452.26501"
+               y="0"
+               sodipodi:role="line"
+               id="tspan256">Biomedical Engineering, Graz University of Technology, Inffeldgasse 16C, 8010 Graz, Austria</tspan></text>
+</g><g
+           id="g260"><text
+             transform="matrix(1,0,0,-1,78.2,368.9)"
+             style="font-variant:normal;font-weight:normal;font-size:6.4000001px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text264"><tspan
+               x="0"
+               y="0"
+               id="tspan262">6</tspan></text>
+</g><g
+           id="g266" /><g
+           id="g268"><text
+             transform="matrix(1,0,0,-1,83.5,364.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text272"><tspan
+               x="0 7.3039999 12.804 18.304001 23.804001 29.909 36.014 38.411999 44.516998 50.709999 53.108002 58.608002 64.712997 67.297997 70.301003 77.605003 83.105003 85.502998 91.608002 97.712997 103.213 109.318 115.005 118.008 125.906 132.011 137.511 143.616 149.72099 153.40601 158.90601 165.099 168.10201 171.19299 177.298 182.798 185.88901 188.287 191.37801 197.483 200.57401 206.569 209.66 212.75101 220.649 226.754 229.15199 234.65199 240.757 244.442 249.942 252.34 255.431 261.01901 264.022 270.12701 273.21799 276.30899 282.414 288.51901 294.62399 300.12399 306.229 308.62701 314.73199 317.823 320.914 328.21799 330.616 336.72101 342.22101 348.414 351.505 357.60999 363.715 366.806 374.70401 380.80899 384.49399 390.599 392.99701 399.10199 405.207 407.69299 410.784 419.96899 425.96399 429.64899 435.14899 437.547 443.65201 447.33701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan270">Psychological Sciences Research Institute, University of Louvain, Place du Cardinal Mercier,</tspan></text>
+</g><g
+           id="g274"><text
+             transform="matrix(1,0,0,-1,185.1,351.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text278"><tspan
+               x="0 6.105 12.298 15.301 21.406 24.497 30.601999 33.693001 39.798 45.903 48.993999 55.098999 61.203999 64.294998 70.400002 76.394997 79.486 82.577003 88.681999 94.787003 100.892 107.085 110.088 116.193 122.298 128.403 133.903 140.008 142.40601 148.511 152.295 154.69299 160.798 164.483 172.381 178.48599 184.591 190.091 196.196 199.386 202.47701 209.78101 215.886 218.284 224.38901 226.787 232.892"
+               y="0"
+               sodipodi:role="line"
+               id="tspan276">10 bte L3.05.01, 1348 Louvain-la-Neuve, Belgium</tspan></text>
+</g><g
+           id="g280"><text
+             transform="matrix(1,0,0,-1,72.1,314.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text284"><tspan
+               x="0 7.8979998 14.003 20.108 26.212999 32.318001 38.511002 41.602001 50.699001 56.804001 59.895 65.394997 67.792999 73.898003 77.583"
+               y="0"
+               sodipodi:role="line"
+               id="tspan282">Hannah Metzler </tspan></text>
+</g><g
+           id="g286"><text
+             transform="matrix(1,0,0,-1,152.8,314.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text290"><tspan
+               x="0 6.105 9.1079998 12.199 18.304001 23.804001 26.806999 29.898001 32.988998 39.094002 42.778999 48.278999 50.676998 56.782001 59.873001 65.977997 69.663002 75.767998 78.859001 84.963997 91.069 97.174004 103.279 106.964 113.069 119.174 125.279 131.384 135.069 141.174 147.27901 153.384 159.489 163.27299 169.37801 175.483 181.588"
+               y="0"
+               sodipodi:role="line"
+               id="tspan288">https://orcid.org/0000-0001-9254-3675</tspan></text>
+</g><g
+           id="g292"
+           transform="translate(152.8,314.6)"><path
+             d="M 0,-0.9 H 187.7"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path294"
+             inkscape:connector-curvature="0" /></g><g
+           id="g296"><text
+             transform="matrix(1,0,0,-1,72.1,298.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text300"><tspan
+               x="0 7.3039999 13.409 17.094 23.198999 29.304001 32.988998 39.094002 42.185001 50.083 52.480999 61.666 67.771004"
+               y="0"
+               sodipodi:role="line"
+               id="tspan298">Bernard Rimé </tspan></text>
+</g><g
+           id="g302"><text
+             transform="matrix(1,0,0,-1,143,298.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text306"><tspan
+               x="0 6.105 9.1079998 12.199 18.304001 23.804001 26.806999 29.898001 32.988998 39.094002 42.778999 48.278999 50.676998 56.782001 59.873001 65.977997 69.663002 75.767998 78.859001 84.963997 91.069 97.174004 103.279 106.964 113.069 119.174 125.279 131.384 135.069 141.174 147.27901 153.384 159.489 163.27299 169.37801 175.483 181.588"
+               y="0"
+               sodipodi:role="line"
+               id="tspan304">https://orcid.org/0000-0001-8487-575X</tspan></text>
+</g><g
+           id="g308"
+           transform="translate(143,298.7)"><path
+             d="M 0,-0.9 H 188.9"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path310"
+             inkscape:connector-curvature="0" /></g><g
+           id="g312"><text
+             transform="matrix(1,0,0,-1,72.1,282.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text316"><tspan
+               x="0 9.1850004 15.29 20.790001 23.792999 31.097 37.202 39.599998 41.998001 48.103001 51.787998 54.978001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan314">Max Pellert </tspan></text>
+</g><g
+           id="g318"><text
+             transform="matrix(1,0,0,-1,130.2,282.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text322"><tspan
+               x="0 6.105 9.1079998 12.199 18.304001 23.804001 26.806999 29.898001 32.988998 39.094002 42.778999 48.278999 50.676998 56.782001 59.873001 65.977997 69.663002 75.767998 78.859001 84.963997 91.069 97.174004 103.279 106.964 113.069 119.174 125.279 131.384 135.069 141.174 147.27901 153.384 159.489 163.27299 169.37801 175.483 181.588"
+               y="0"
+               sodipodi:role="line"
+               id="tspan320">https://orcid.org/0000-0002-6557-7607</tspan></text>
+</g><g
+           id="g324"
+           transform="translate(130.2,282.7)"><path
+             d="M 0,-0.9 H 187.7"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path326"
+             inkscape:connector-curvature="0" /></g><g
+           id="g328"><text
+             transform="matrix(1,0,0,-1,72.1,266.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text332"><tspan
+               x="0 6.6989999 12.804 18.909 28.094 34.199001 39.699001 42.790001 50.688 53.085999 59.191002 65.295998 71.401001 75.085999 80.585999 84.271004 90.375999 93.467003 99.571999 105.677 108.768 114.873 120.978 123.376 129.481 133.265"
+               y="0"
+               sodipodi:role="line"
+               id="tspan330">Thomas Niederkrotenthaler </tspan></text>
+</g><g
+           id="g334"><text
+             transform="matrix(1,0,0,-1,208.5,266.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text338"><tspan
+               x="0 6.105 9.1960001 12.287 18.392 23.792999 26.884001 29.975 33.066002 39.061001 42.745998 48.245998 50.644001 56.749001 59.84 65.945 69.629997 75.735001 78.825996 84.931 91.036003 97.140999 103.246 106.931 113.036 119.141 125.246 131.351 135.13499 141.24001 147.345 153.45 159.55499 163.24001 169.345 175.45 181.55499"
+               y="0"
+               sodipodi:role="line"
+               id="tspan336">https://orcid.org/0000-0001-9550-628X</tspan></text>
+</g><g
+           id="g340"
+           transform="translate(208.5,266.8)"><path
+             d="M 0,-0.9 H 189"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path342"
+             inkscape:connector-curvature="0" /></g><g
+           id="g344"><text
+             transform="matrix(1,0,0,-1,72.1,250.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text348"><tspan
+               x="0 7.3039999 13.409 19.514 25.707001 28.709999 36.608002 39.094002 42.185001 50.083 56.188 59.278999 65.384003 67.781998 73.974998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan346">Anna Di Natale </tspan></text>
+</g><g
+           id="g350"><text
+             transform="matrix(1,0,0,-1,149.2,250.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text354"><tspan
+               x="0 6.105 9.1960001 12.287 18.392 23.792999 26.884001 29.975 33.066002 39.061001 42.745998 48.245998 50.644001 56.749001 59.84 65.945 69.629997 75.735001 78.825996 84.931 91.036003 97.140999 103.246 106.931 113.036 119.141 125.246 131.351 135.13499 141.24001 147.345 153.45 159.55499 163.24001 169.345 175.45 181.55499"
+               y="0"
+               sodipodi:role="line"
+               id="tspan352">https://orcid.org/0000-0002-0592-0274</tspan></text>
+</g><g
+           id="g356"
+           transform="translate(149.2,250.8)"><path
+             d="M 0,-0.9 H 187.8"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path358"
+             inkscape:connector-curvature="0" /></g><g
+           id="g360"><text
+             transform="matrix(1,0,0,-1,72.1,234.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text364"><tspan
+               x="0 7.8979998 14.003 19.503 21.900999 28.094 31.184999 39.688 45.792999 49.478001 54.978001 57.375999 63.569"
+               y="0"
+               sodipodi:role="line"
+               id="tspan362">David Garcia </tspan></text>
+</g><g
+           id="g366"><text
+             transform="matrix(1,0,0,-1,138.8,234.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text370"><tspan
+               x="0 6.105 9.1960001 12.287 18.392 23.792999 26.884001 29.975 33.066002 39.061001 42.745998 48.245998 50.644001 56.749001 59.84 65.945 69.629997 75.735001 78.825996 84.931 91.036003 97.140999 103.246 106.931 113.036 119.141 125.246 131.351 135.13499 141.24001 147.345 153.45 159.55499 163.24001 169.345 175.45 181.55499"
+               y="0"
+               sodipodi:role="line"
+               id="tspan368">https://orcid.org/0000-0002-2820-9151</tspan></text>
+</g><g
+           id="g372"
+           transform="translate(138.8,234.9)"><path
+             d="M 0,-0.9 H 187.8"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path374"
+             inkscape:connector-curvature="0" /></g><g
+           id="g376"><text
+             transform="matrix(1,0,0,-1,72.1,189.9)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text380"><tspan
+               x="0 7.8979998 14.003 17.688 23.792999 26.884001 32.988998 39.094002 45.199001 48.202 51.292999 57.397999 64.097 67.188004 70.278999 73.281998 76.967003 83.071999 86.163002 92.267998 95.953003 102.058 105.743 111.848 121.638 127.743 134.442 138.039 141.724"
+               y="0"
+               sodipodi:role="line"
+               id="tspan378">Data availability statement: </tspan></text>
+</g><g
+           id="g382"><text
+             transform="matrix(1,0,0,-1,217,189.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text386"><tspan
+               x="0 7.3039999 9.7019997 12.188 15.279 20.778999 26.884001 32.988998 39.094002 42.185001 48.290001 54.395 60.5 63.591 69.695999 75.801003 78.891998 84.997002 88 94.105003 97.790001 103.895 106.986 113.091 118.591 124.696 127.094 129.492 135.597 141.702 144.188 150.381 153.472 159.467 162.558"
+               y="0"
+               sodipodi:role="line"
+               id="tspan384">All code and data are available at </tspan></text>
+</g><g
+           id="g388"><text
+             transform="matrix(1,0,0,-1,382.7,189.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text392"><tspan
+               x="0 6.105 9.1079998 12.199 18.304001 23.804001 26.806999 29.898001 32.988998 39.094002 44.594002 47.597 50.688 53.085999 59.191002 62.282001 68.387001 74.491997 80.597 86.097 91.597"
+               y="0"
+               sodipodi:role="line"
+               id="tspan390">https://osf.io/736kc/</tspan></text>
+</g><g
+           id="g394"
+           transform="translate(382.7,189.9)"><path
+             d="M 0,-0.9 H 94.8"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path396"
+             inkscape:connector-curvature="0" /></g><g
+           id="g398"><text
+             transform="matrix(1,0,0,-1,477.5,189.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text402"><tspan
+               x="0"
+               y="0"
+               id="tspan400">.</tspan></text>
+</g><g
+           id="g404"><text
+             transform="matrix(1,0,0,-1,72.1,160.9)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text408"><tspan
+               x="0 7.8979998 14.597 21.296 24.981001 27.983999 31.075001 37.18 40.865002 43.956001 50.654999 54.34 57.342999 60.433998 67.133003 70.818001 76.922997 81.212997 87.318001 93.422997 97.019997 100.705"
+               y="0"
+               sodipodi:role="line"
+               id="tspan406">Conflict of interest: </tspan></text>
+</g><g
+           id="g410"><text
+             transform="matrix(1,0,0,-1,176,160.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text414"><tspan
+               x="0 6.6989999 12.804 18.909 22 28.105 34.209999 37.300999 43.405998 49.511002 53.195999 58.695999 61.699001 67.804001 73.908997 79.408997 85.601997 88.605003 94.709999 100.903 103.906 109.406 115.511 121.616 124.707 127.105 129.50301 135.00301 138.19299 141.196 147.30099 150.392 153.483 155.881 161.98599 165.077 171.18201 174.867 180.972 186.373 189.464 192.55499 195.646 201.75101 204.754 208.439 214.54401 220.649 226.754 230.439 233.442 236.533"
+               y="0"
+               sodipodi:role="line"
+               id="tspan412">The authors have no conflict of interest to report. </tspan></text>
+</g><g
+           id="g416"><text
+             transform="matrix(1,0,0,-1,72.1,131.9)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text420"><tspan
+               x="0 7.8979998 14.597 18.886999 23.177 29.282 35.387001 42.085999 48.785 55.484001 62.182999 68.288002 74.987 81.092003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan418">Correspondence</tspan></text>
+</g><g
+           id="g422"><text
+             transform="matrix(1,0,0,-1,162.503,131.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text426"><tspan
+               x="0 5.5 11.605 17.709999 23.209999 29.315001 33 39.105 41.502998 47.608002 53.800999 56.891998 59.983002 66.087997 68.486 73.986 77.077003 83.181999 86.778999 89.870003 92.267998 97.767998 100.166 106.359 109.45 114.95 121.055 127.16 133.265 135.66299 141.856 144.85899 150.964 157.157 160.16 166.265 172.37 178.47501 182.16 188.265 193.765 199.265 205.37 211.563 214.65401 217.657 223.76199 226.853 234.75101 240.856 246.961 253.06599 259.17099 265.36401 268.45499 277.64001 283.63501 286.72601 292.22601 294.62399 300.729 304.414 307.505 313.60999 319.715 325.90799 328.91101 336.80899 342.914 348.414 350.81201 357.005"
+               y="0"
+               sodipodi:role="line"
+               id="tspan424">concerning this article should be addressed to Hannah Metzler and David </tspan></text>
+</g><g
+           id="g428"><text
+             transform="matrix(1,0,0,-1,72.1,117.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text432"><tspan
+               x="0 8.5909996 14.586 18.271 23.771 26.169001 32.273998 35.365002 38.456001 46.354 52.459 61.644001 67.749001 70.147003 76.251999 81.751999 84.150002 87.240997 92.829002 95.919998 103.224 108.724 111.122 117.227 123.332 128.832 135.02499 138.028 145.92599 152.03101 158.224 161.315 168.619 171.017 177.12199 183.22701 189.332 195.437 198.627 201.63 207.13 213.235 218.735 224.84 227.931 233.431 236.522 242.627 248.73199 254.83701 257.92801 264.03299 267.71799 270.72101 278.02499 281.116 284.80099 290.90601 296.40601 301.90601 308.01099 311.10199 317.207 323.31201 326.40302 332.508 338.61301 344.71799 350.823 353.914 361.21799 363.616 369.72101 375.82599 381.931 388.03601 391.22601 394.31699 401.621 407.72601 413.22601 416.229 419.914 422.31201 428.41699 431.508"
+               y="0"
+               sodipodi:role="line"
+               id="tspan430">Garcia, Complexity Science Hub Vienna, Josefstaedter Strasse 39 1080 Vienna, Austria. </tspan></text>
+</g><g
+           id="g434"><text
+             transform="matrix(1,0,0,-1,72.1,102.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text438"><tspan
+               x="0 7.3039999 16.489 22.594 24.992001 27.389999 30.481001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan436">Email: </tspan></text>
+</g><g
+           id="g440"><text
+             transform="matrix(1,0,0,-1,105.7,102.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text444"><tspan
+               x="0 9.1850004 15.18 18.271 23.771 26.169001 32.273998 35.959 47.146 52.646 58.146 64.250999 67.342003 73.446999 78.946999 82.038002 88.032997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan442">metzler@csh.ac.at</tspan></text>
+</g><g
+           id="g446"
+           transform="translate(105.7,102.9)"><path
+             d="M 0,-0.9 H 91.2"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path448"
+             inkscape:connector-curvature="0" /></g><g
+           id="g450"><text
+             transform="matrix(1,0,0,-1,197,102.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text454"><tspan
+               x="0 3.0910001 6.0939999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan452">, d</tspan></text>
+</g><g
+           id="g456"><text
+             transform="matrix(1,0,0,-1,209.2,102.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text460"><tspan
+               x="0 6.105 12.21 15.895 21.395 23.792999 29.898001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan458">garcia@</tspan></text>
+</g><g
+           id="g462" /><g
+           id="g464"
+           transform="translate(209.1,102.9)"><path
+             d="M 0,-0.9 H 41.1"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path466"
+             inkscape:connector-curvature="0" /></g><g
+           id="g468"><text
+             transform="matrix(1,0,0,-1,250.4,102.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text472"><tspan
+               x="0 3.0910001 9.1960001 15.301 18.986 25.091 30.591 33.681999 39.676998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan470">tugraz.at</tspan></text>
+</g><g
+           id="g474" /><g
+           id="g476"
+           transform="translate(250.3,102.9)"><path
+             d="M 0,-0.9 H 42.8"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path478"
+             inkscape:connector-curvature="0" /></g></g></g></g></svg>

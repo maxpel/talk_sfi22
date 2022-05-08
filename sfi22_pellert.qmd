@@ -1,0 +1,322 @@
+---
+title: "Validating daily social media macroscopes of emotions"
+date: 'May 9th, 2022'
+author: "Max Pellert"
+format:
+  revealjs:
+    preview-links: auto
+    # footer: Santa Fe Institute 2022
+    # logo: test.png
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- It is typically a 45 minute seminar and 15 minutes of questions. -->
+
+## Me
+
+Background: economics, (psychology) and cognitive science
+
+PhD from the Complexity Science Hub Vienna (Medical University of Vienna)
+
+## Basics: Extracting Signals from Text
+
+One example: **Linguistic Inquiry and Word Count, LIWC (pronounced “Luke”)**  
+Simple word matching method  
+Generated and validated by psychologists (Pennebaker et al., 2001-2022)  
+
+::: columns
+
+::: {.column width="50%"}
+![](LIWC.png)
+:::
+
+::: {.column width="50%"}
+**Examples of LIWC classes:**  
+Positive Affect, Negative Affect  
+Anxiety, Sadness, Anger  
+Social processes
+:::
+
+:::
+
+## Basics: Extracting Signals from Text
+
+More advanced examples using deep learning  
+Classifiers based on transformer architectures (roBerta)  
+Large general purpose language models adapted to the task of emotion classification 
+
+::: columns
+
+::: {.column width="50%"}
+![](model1.png)
+![](german_sentiment.png)
+:::
+
+::: {.column width="50%"}
+![](model2.png)
+https://huggingface.co/maxpe
+https://huggingface.co/oliverguhr/german-sentiment-bert
+
+And endless more...
+:::
+
+
+
+:::
+
+
+## Sentiment Analysis
+
+Has gotten a somewhat bad name
+
+"Why don't we run something on the text?"
+
+Often conceptually flawed + noisy data + inadequate annotation schemes to create tools
+
+Results can be cherry-picked by optimizing on the tool (so many available, broad range of quality)
+
+But, used right it can be valuable research instrument
+
+## Sentiment Analysis Evidence
+
+Individual text level (for example one tweet): not reliable it seems (MASON, OTHER DAVID PAPERS)
+
+Individual person level: Promising, for example depression (EICHSTAEDT) or ...
+
+Group level: debated, for example heart disease thing, mixed results, method-depending in other cases (JAIDKA) paper
+
+New: macroscopic validations
+
+## World Happiness Report
+
+::: columns
+::: {.column width="40%"}
+![](happiness_report.svg)
+:::
+
+::: {.column width="60%"}
+Metzler, H., Pellert, M., & Garcia, D. (2022). Using Social Media Data to Capture Emotions Before and During COVID-19 (World Happiness Report 2022). [https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/){preview-link="false"}
+
+![](davidhannah.svg){width=40% fig-align="center"}
+
+:::
+:::
+
+## Data sources
+
+**derstandard.at**
+
+An internet pioneer in the German speaking area (centered on Austria)
+
+Highly active: almost 57 million visits in November 2020
+
+Active forum with many postings below news articles
+
+**Twitter**
+
+All Tweets from Austria (data on location from Brandwatch)
+
+## Mood Survey
+
+Survey on yesterday’s emotional state for 20 days in November 2020
+
+"How was your last day" ("Wie war der letzte Tag?")
+
+Was displayed in between the article text, low barrier, could be an answered anonymously
+
+In a collaboration with derstandard.at, we obtained the survey results
+
+Investigate the relationship of the explicit survey with the results of methods that extract sentiment from text
+
+## Text analysis
+
+Combination of dictionary based and deep learning (RoBERTa) based sentiment analysis on the text of postings (in German)
+
+LIWC and German Sentiment
+
+These were the only two tools used, no cherry-picking of the methods (see preregistration)  
+
+
+
+::: aside
+Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., & Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85
+
+Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620–1625. https://www.aclweb.org/anthology/2020.lrec-1.202/
+:::
+
+## Preregistration
+
+## Methods to use
+
+HUGGING FACE HUB LINKS
+
+## Publications
+
+::: {.columns}
+
+::: {.column width=42.5%}
+Preprint
+(about to be published in Scientific Reports)
+
+![](){fig-align="center"}
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=42.5%}
+Book chapter outlining research program
+
+![](bookchapter.svg){fig-align="center"}
+
+::: aside
+
+Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 [Cs]. http://arxiv.org/abs/2108.07646
+
+Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp. 240–255). Routledge. https://doi.org/10.4324/9781003024583-18 {.smaller}
+:::
+:::
+
+:::
+
+
+## End
+
+[https://mpellert.at](https://mpellert.at)
+
+![](webpage.png){fig-align="center"}
+
+
+<!-- ## New Publications {.smaller} -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="40%"} -->
+<!-- ![](emotion_preprint.svg) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="60%"} -->
+<!-- Metzler, H., Rimé, B., Pellert, M., Niederkrotenthaler, T., Di Natale, A., & Garcia, D. (2021). Collective Emotions during the COVID-19 Outbreak \[Preprint\]. PsyArXiv. https://doi.org/10.31234/osf.io/qejxv -->
+
+<!-- Will be published in Emotion in the next days. -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## New Publications {.smaller} -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="40%"} -->
+<!-- ![](macroscopes.png) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="60%"} -->
+<!-- Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 \[Cs\]. <http://arxiv.org/abs/2108.07646> -->
+
+<!-- Currently: (Re-)Submitted after Revision Round 1 to Scientific Reports. -->
+
+<!-- About to be published. -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Conference Submissions -->
+
+<!-- ![](derstandard_netsci_preview.svg) -->
+
+<!-- ## Conference Submissions -->
+
+<!-- ::: r-stack -->
+<!-- ![](sunbelt.png){.fragment} -->
+
+<!-- ![](sunbelt_accepted.png){.fragment .fade-in-then-out} -->
+
+<!-- ![](ic2s2.svg){.fragment .fade-in-then-out} -->
+
+<!-- ![](netsci.svg){.fragment .fade-in-then-out} -->
+<!-- ::: -->
+
+<!-- ## Enriched Sentiment Analysis -->
+
+<!-- ### Validation FEEL-IT & LIWC in Italian -->
+
+<!-- ![](latextable_sentcomparison.svg) -->
+
+<!-- ## Enriched Sentiment Analysis -->
+
+<!-- ### Difference between fake and not (articles) -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="50%"} -->
+<!-- ![](bootstrap_comparison_fake_nonfake_feelit.svg) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- ![](bootstrap_comparison_fake_nonfake_liwc.svg) -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Distributed Trust Recap -->
+
+<!-- -   Cartesio Dataset (figuring out the issues along the way) -->
+
+<!-- -   Not really big data, sparsity and design decisions -->
+
+<!-- -   Rating aggregation mechanism, taking into account user distances -->
+
+<!-- -   Fake news annotations from Cartesio (article level) and AGCOM dataset (outlet level) -->
+
+<!-- -   Differences of "our" weighted mean and the unweighted mean especially interesting -->
+
+<!-- ## Distributed trust -->
+
+<!-- ![](compare_rating_vertical.svg) -->
+
+<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
+
+<!-- ![](diffrating_comb.svg) -->
+
+<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
+
+<!-- ![](diffrating_split.svg) -->
+
+<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
+
+<!-- ![](diffrating_split_015.svg) -->
+
+<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
+
+<!-- ::: columns -->
+<!-- ::: {.column width="50%"} -->
+<!-- ![](diffrating_split_01.svg) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="50%"} -->
+<!-- ![](diffrating_split_005.svg) -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Distributed Trust Outlook -->
+
+<!-- -   Proposed new data sets: derstandard.at livetickers, voat.co -->
+
+<!-- -   Tried imputation techniques from phylogenetic analysis -->
+
+<!--     -   Additive and ultrametric procedure -->
+<!--     -   More advanced than mean imputations -->
+<!--     -   Different use case: much more sparse then the distance matrices they usually use -->
+
+<!-- -   Strategies to address the "Cold Start" problem? -->
+
+<!-- ## Other Activities {.smaller} -->
+
+<!-- General: Reviewing, Reading (Club) -->
+
+<!-- With Ruggiero: We do regularly things to help out each other, for example sharing literature, API debugging, code review etc. -->
+
+<!-- With Giulio: When he was in Rome, I worked with him to incorporate my Italian sentiment analysis module into his text analysis pipeline. -->
+
+<!-- With Matteo: Geospatial Data and APIs, we set up the data pipeline for the STARTS project together. -->
+
+<!-- With Michael: Pattern mining and sharing of expertise concerning some aspects of linguistics and cognitive science. -->
+
+<!-- With Martina: Turning the corpus of our research idea with Michael multilingual. -->
