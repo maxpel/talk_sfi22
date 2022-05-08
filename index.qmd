@@ -197,7 +197,11 @@ Pre-registered the same study with Twitter data
 
 ## Components
 
-ADD TABLE
+Generally, the negative components could be improved
+
+LIWC negative on derstandard fails (dialect words that are not included in the dictionary?)
+
+![](latextable_components.svg)
 
 ## Longer term trend of the two text sentiment signals
 
@@ -211,16 +215,17 @@ ADD TABLE
 
 ::: columns
 ::: {.column width="42.5%"}
-Preprint (about to be published in Scientific Reports)
+Preprint (about to be published in Scientific Reports):  
+<!-- [https://arxiv.org/abs/2108.07646](https://arxiv.org/abs/2108.07646) -->
 
-![](){fig-align="center"}
+![](Der_Standard_Macroscopes_Submission__3_REVIEW__1.svg){fig-align="center"}
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="42.5%"}
-Book chapter outlining research program
+Book chapter outlining the connected research program:
 
 ![](bookchapter.svg){fig-align="center"}
 
@@ -236,7 +241,7 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 
 <https://mpellert.at>
 
-![](webpage.png){fig-align="center"}
+![](webpage_new.png){fig-align="center"}
 
 <!-- TO DO: -->
 

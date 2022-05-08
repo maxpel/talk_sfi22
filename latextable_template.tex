@@ -1,0 +1,36 @@
+\documentclass[12pt,a4paper]{standalone}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+
+\usepackage{booktabs}
+
+\renewcommand{\arraystretch}{1.2}
+
+
+\begin{document}
+
+\minipage{1.08\textwidth}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrrrrr}
+  \toprule
+ & ansia & rabbia & tristez & emo\_pos & fear & anger & sadness & joy \\ 
+  \midrule
+ansia & 1.00 & 0.15 & 0.14 & -0.01 & \textbf{0.19} & -0.03 & 0.03 & -0.12 \\ 
+  rabbia &  & 1.00 & 0.08 & 0.08 & 0.06 & \textbf{0.18} & -0.04 & -0.16 \\ 
+  tristez &  &  & 1.00 & 0.19 & -0.03 & 0.04 & \textbf{0.12} & -0.10 \\ 
+  emo\_pos &  &  &  & 1.00 & -0.04 & -0.01 & 0.02 & \textbf{0.09} \\ 
+  fear &  &  &  &  & 1.00 & -0.36 & -0.28 & -0.28 \\ 
+  anger &  &  &  &  &  & 1.00 & -0.23 & -0.31 \\ 
+  sadness &  &  &  &  &  &  & 1.00 & -0.21 \\ 
+  joy &  &  &  &  &  &  &  & 1.00 \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
+
+\endminipage
+
+\end{document}
