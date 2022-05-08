@@ -368,14 +368,16 @@ Social processes</p>
 <section id="basics-extracting-signals-from-text-1" class="slide level2">
 <h2>Basics: Extracting Signals from Text</h2>
 <p>More advanced examples using deep learning<br>
-Classifiers based on transformer architectures (roBerta)<br>
+Classifiers based on transformer architectures (RoBERTa)<br>
 Large general purpose language models adapted to the task of emotion classification</p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><img data-src="model1.png"> <img data-src="german_sentiment.png"></p>
 </div><div class="column" style="width:50%;">
-<p><img data-src="model2.png"> https://huggingface.co/maxpe https://huggingface.co/oliverguhr/german-sentiment-bert</p>
-<p>And endless more…</p>
+<p><img data-src="model2.png"></p>
+<p><a href="https://huggingface.co/maxpe" class="uri">https://huggingface.co/maxpe</a></p>
+<p><a href="https://huggingface.co/oliverguhr/german-sentiment-bert" class="uri">https://huggingface.co/oliverguhr/german-sentiment-bert</a></p>
+<p>And many many more…</p>
 </div>
 </div>
 </section>
@@ -384,15 +386,15 @@ Large general purpose language models adapted to the task of emotion classificat
 <p>Has gotten a somewhat bad name</p>
 <p>“Why don’t we run something on the text?”</p>
 <p>Often conceptually flawed + noisy data + inadequate annotation schemes to create tools</p>
-<p>Results can be cherry-picked by optimizing on the tool (so many available, broad range of quality)</p>
+<p>Results can be cherry-picked by optimizing the tool (so many available, broad range of quality)</p>
 <p>But, used right it can be valuable research instrument</p>
 </section>
 <section id="sentiment-analysis-evidence" class="slide level2">
 <h2>Sentiment Analysis Evidence</h2>
-<p>Individual text level (for example one tweet): not reliable it seems (MASON, OTHER DAVID PAPERS)</p>
-<p>Individual person level: Promising, for example depression (EICHSTAEDT) or …</p>
-<p>Group level: debated, for example heart disease thing, mixed results, method-depending in other cases (JAIDKA) paper</p>
-<p>New: macroscopic validations</p>
+<p>Individual text level (for example a single tweet): Not reliable, sarcasm, irony, performative nature of social media, we need a substantial number of texts to get through the noise (especially with dictionary methods, also base rates are low)</p>
+<p>Individual person level: Associations sometimes higher (for example for depression: Eichstaedt et al., 2018) and sometimes lower (PANAS scale: Beasley &amp; Mason, 2015) with personality traits</p>
+<p>Group level (geographical): Debated, for example Twitter heart disease study (Eichstaedt et al., 2015), methods have to be validated and checked for robustness (Jaidka et al., 2020)</p>
+<p>Our contribution: <em>Macroscopic</em> validation</p>
 </section>
 <section id="world-happiness-report" class="slide level2">
 <h2>World Happiness Report</h2>
@@ -411,12 +413,12 @@ Large general purpose language models adapted to the task of emotion classificat
 </section>
 <section id="data-sources" class="slide level2">
 <h2>Data sources</h2>
-<p><strong>derstandard.at</strong></p>
-<p>An internet pioneer in the German speaking area (centered on Austria)</p>
+<p><strong>derstandard.at</strong><br>
+An internet pioneer in the German speaking area (centered on Austria)</p>
 <p>Highly active: almost 57 million visits in November 2020</p>
 <p>Active forum with many postings below news articles</p>
-<p><strong>Twitter</strong></p>
-<p>Tweets from Austria (data on location from Brandwatch)</p>
+<p><strong>Twitter</strong><br>
+Tweets from Austria (data on location from Brandwatch)</p>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -432,23 +434,54 @@ Large general purpose language models adapted to the task of emotion classificat
 <h2>Mood Survey</h2>
 <p>Survey on yesterday’s emotional state for 20 days in November 2020</p>
 <p>“How was your last day” (“Wie war der letzte Tag?”)</p>
-<p>Was displayed in between the article text, low barrier, could be an answered anonymously</p>
+<p>Was displayed in between the article text, low barrier, could be answered anonymously</p>
 <p>In a collaboration with derstandard.at, we obtained the survey results</p>
-<p>Investigate the relationship of the explicit survey with the results of methods that extract sentiment from text</p>
+<p>Investigate the relationship of the explicit survey measure with the results of methods that extract sentiment indirectly from text</p>
+</section>
+<section id="section" class="slide level2" data-background-image="survey_withannotation.png" data-background-size="contain">
+<h2></h2>
 </section>
 <section id="text-analysis" class="slide level2">
 <h2>Text analysis</h2>
-<p>Combination of dictionary based and deep learning (RoBERTa) based sentiment analysis on the text of postings (in German)</p>
-<p>LIWC and German Sentiment</p>
-<p>These were the only two tools used, no cherry-picking of the methods (see preregistration)</p>
+<p>Combination of dictionary based and deep learning (RoBERTa) based sentiment analysis on the text of postings (in German): LIWC and German Sentiment</p>
+<p>These were the only two tools used, no cherry-picking the methods (see preregistration)</p>
 
 <aside><div>
 <p>Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., &amp; Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85</p>
 <p>Guhr, O., Schumann, A.-K., Bahrmann, F., &amp; Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620–1625. https://www.aclweb.org/anthology/2020.lrec-1.202/</p>
 </div></aside></section>
+<section id="text-analysis-1" class="slide level2">
+<h2>Text analysis</h2>
+<p>We subtract baseline corrected negative from baseline corrected positive on the texts of each day</p>
+<p>Baseline period from “2020-03-16” to “2020-04-20”</p>
+<p>Compare to: Proportion of positive in the survey</p>
+
+<aside><div>
+<p>Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., &amp; Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85</p>
+<p>Guhr, O., Schumann, A.-K., Bahrmann, F., &amp; Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620–1625. https://www.aclweb.org/anthology/2020.lrec-1.202/</p>
+</div></aside></section>
+<section id="close-correspondence-between-explicit-survey-and-text-analysis-for-the-same-platform" class="slide level2">
+<h2>Close correspondence between explicit survey and text analysis for the same platform</h2>
+</section>
 <section id="preregistration" class="slide level2">
 <h2>Preregistration</h2>
+<p>Extension of the analysis to another platform (Twitter)</p>
+<p>We wanted to see if this a platform effect or if it generalises</p>
+<p>Pre-registered a study with Twitter data</p>
+<p>Replication</p>
 </section>
+<section id="components" class="slide level2">
+<h2>Components</h2>
+<p>ADD TABLE</p>
+</section>
+<section id="longer-term-trend-of-the-two-text-sentiment-signals" class="slide level2">
+<h2>Longer term trend of the two text sentiment signals</h2>
+
+<img data-src="extended_analysis_both.svg" class="r-stretch quarto-figure-center"></section>
+<section id="external-validations" class="slide level2">
+<h2>External Validations</h2>
+
+<img data-src="scattercases-1.svg" class="r-stretch"></section>
 <section id="methods-to-use" class="slide level2">
 <h2>Methods to use</h2>
 <p>HUGGING FACE HUB LINKS</p>
@@ -483,86 +516,10 @@ Large general purpose language models adapted to the task of emotion classificat
 <h2>End</h2>
 <p><a href="https://mpellert.at" class="uri">https://mpellert.at</a></p>
 
-<!-- ## New Publications {.smaller} -->
-<!-- ::: columns -->
-<!-- ::: {.column width="40%"} -->
-<!-- ![](emotion_preprint.svg) -->
-<!-- ::: -->
-<!-- ::: {.column width="60%"} -->
-<!-- Metzler, H., Rimé, B., Pellert, M., Niederkrotenthaler, T., Di Natale, A., & Garcia, D. (2021). Collective Emotions during the COVID-19 Outbreak \[Preprint\]. PsyArXiv. https://doi.org/10.31234/osf.io/qejxv -->
-<!-- Will be published in Emotion in the next days. -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ## New Publications {.smaller} -->
-<!-- ::: columns -->
-<!-- ::: {.column width="40%"} -->
-<!-- ![](macroscopes.png) -->
-<!-- ::: -->
-<!-- ::: {.column width="60%"} -->
-<!-- Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 \[Cs\]. <http://arxiv.org/abs/2108.07646> -->
-<!-- Currently: (Re-)Submitted after Revision Round 1 to Scientific Reports. -->
-<!-- About to be published. -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ## Conference Submissions -->
-<!-- ![](derstandard_netsci_preview.svg) -->
-<!-- ## Conference Submissions -->
-<!-- ::: r-stack -->
-<!-- ![](sunbelt.png){.fragment} -->
-<!-- ![](sunbelt_accepted.png){.fragment .fade-in-then-out} -->
-<!-- ![](ic2s2.svg){.fragment .fade-in-then-out} -->
-<!-- ![](netsci.svg){.fragment .fade-in-then-out} -->
-<!-- ::: -->
-<!-- ## Enriched Sentiment Analysis -->
-<!-- ### Validation FEEL-IT & LIWC in Italian -->
-<!-- ![](latextable_sentcomparison.svg) -->
-<!-- ## Enriched Sentiment Analysis -->
-<!-- ### Difference between fake and not (articles) -->
-<!-- ::: columns -->
-<!-- ::: {.column width="50%"} -->
-<!-- ![](bootstrap_comparison_fake_nonfake_feelit.svg) -->
-<!-- ::: -->
-<!-- ::: {.column width="50%"} -->
-<!-- ![](bootstrap_comparison_fake_nonfake_liwc.svg) -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ## Distributed Trust Recap -->
-<!-- -   Cartesio Dataset (figuring out the issues along the way) -->
-<!-- -   Not really big data, sparsity and design decisions -->
-<!-- -   Rating aggregation mechanism, taking into account user distances -->
-<!-- -   Fake news annotations from Cartesio (article level) and AGCOM dataset (outlet level) -->
-<!-- -   Differences of "our" weighted mean and the unweighted mean especially interesting -->
-<!-- ## Distributed trust -->
-<!-- ![](compare_rating_vertical.svg) -->
-<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
-<!-- ![](diffrating_comb.svg) -->
-<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
-<!-- ![](diffrating_split.svg) -->
-<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
-<!-- ![](diffrating_split_015.svg) -->
-<!-- ## Distributed Trust & Enriched Sentiment Analysis -->
-<!-- ::: columns -->
-<!-- ::: {.column width="50%"} -->
-<!-- ![](diffrating_split_01.svg) -->
-<!-- ::: -->
-<!-- ::: {.column width="50%"} -->
-<!-- ![](diffrating_split_005.svg) -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ## Distributed Trust Outlook -->
-<!-- -   Proposed new data sets: derstandard.at livetickers, voat.co -->
-<!-- -   Tried imputation techniques from phylogenetic analysis -->
-<!--     -   Additive and ultrametric procedure -->
-<!--     -   More advanced than mean imputations -->
-<!--     -   Different use case: much more sparse then the distance matrices they usually use -->
-<!-- -   Strategies to address the "Cold Start" problem? -->
-<!-- ## Other Activities {.smaller} -->
-<!-- General: Reviewing, Reading (Club) -->
-<!-- With Ruggiero: We do regularly things to help out each other, for example sharing literature, API debugging, code review etc. -->
-<!-- With Giulio: When he was in Rome, I worked with him to incorporate my Italian sentiment analysis module into his text analysis pipeline. -->
-<!-- With Matteo: Geospatial Data and APIs, we set up the data pipeline for the STARTS project together. -->
-<!-- With Michael: Pattern mining and sharing of expertise concerning some aspects of linguistics and cognitive science. -->
-<!-- With Martina: Turning the corpus of our research idea with Michael multilingual. -->
+<!-- TO DO: -->
+<!-- * website section TALKS -->
+<!-- * move "aside" down a little bit -->
+<!-- * copy content from google slides talk (insert graphics directly as svg) -->
 <img data-src="webpage.png" class="r-stretch quarto-figure-center"><div class="footer footer-default">
 
 </div>
