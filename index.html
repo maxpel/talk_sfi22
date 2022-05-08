@@ -327,8 +327,8 @@
   <p class="date">2022/05/09, Santa Fe Institute <br> Slides vailable at: https://mpellert.at/talk_sfi22/</p>
 </section>
 
-<section id="max-pellert" class="slide level2">
-<h2>Max Pellert</h2>
+<section id="me" class="slide level2">
+<h2>Me</h2>
 <p>Background: economics, (psychology) and cognitive science</p>
 <p>PhD from the Complexity Science Hub Vienna (Medical University of Vienna)</p>
 <p>Currently: Sony CSL Rome, Italy</p>
@@ -383,18 +383,32 @@ Large general purpose language models adapted to the task of emotion classificat
 </section>
 <section id="sentiment-analysis" class="slide level2">
 <h2>Sentiment Analysis</h2>
-<p>Has gotten a somewhat bad name</p>
-<p>“Why don’t we run something on the text?”</p>
-<p>Often conceptually flawed + noisy data + inadequate annotation schemes to create tools</p>
-<p>Results can be cherry-picked by optimizing the tool (so many available, broad range of quality)</p>
-<p>But, used right it can be valuable research instrument</p>
+<p>Has gotten a somewhat bad name: “Why don’t we run something on the text?”</p>
+<p>Often conceptually flawed + noisy data + inadequate annotation schemes to create many different tools</p>
+<p>Results can be cherry-picked by optimizing the tool</p>
+<p>But, used right it can be a valuable research instrument</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="sentiment1.jpeg"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="sentiment3.jpeg"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="sentiment2.jpeg"></p>
+</div>
+</div>
+</div>
 </section>
-<section id="sentiment-analysis-evidence" class="slide level2">
+<section id="sentiment-analysis-evidence" class="slide level2 smaller">
 <h2>Sentiment Analysis Evidence</h2>
-<p>Individual text level (for example a single tweet): Not reliable, sarcasm, irony, performative nature of social media, we need a substantial number of texts to get through the noise (especially with dictionary methods, also base rates are low)</p>
-<p>Individual person level: Associations sometimes higher (for example for depression: Eichstaedt et al., 2018) and sometimes lower (PANAS scale: Beasley &amp; Mason, 2015) with personality traits</p>
+<p>Individual text level (for example a single tweet): Not reliable, sarcasm, irony, performative nature of social media: we need a substantial number of texts to get through the noise (especially with dictionary methods, also base rates are low)</p>
+<p>Individual person level: Associations sometimes higher (for example for depression: Eichstaedt et al., 2018) and sometimes lower (PANAS scale: Beasley &amp; Mason, 2015) with (rather) stable personality traits</p>
 <p>Group level (geographical): Debated, for example Twitter heart disease study (Eichstaedt et al., 2015), methods have to be validated and checked for robustness (Jaidka et al., 2020)</p>
-<p>Our contribution: <em>Macroscopic</em> validation</p>
+<h3>
+Our contribution: <em>Macroscopically</em> validating if we are able to capture momentary feeling of a population on a daily level
+</h3>
 </section>
 <section id="world-happiness-report" class="slide level2">
 <h2>World Happiness Report</h2>
@@ -454,7 +468,7 @@ Tweets from Austria (data on location from Brandwatch)</p>
 <h2>Text analysis</h2>
 <p>We subtract baseline corrected negative from baseline corrected positive on the texts of each day</p>
 <p>Baseline period from “2020-03-16” to “2020-04-20”</p>
-<p>Compare to: Proportion of positive in the survey</p>
+<p>Compare to: % of positive in the survey</p>
 
 <aside><div>
 <p>Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., &amp; Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85</p>
@@ -462,14 +476,19 @@ Tweets from Austria (data on location from Brandwatch)</p>
 </div></aside></section>
 <section id="close-correspondence-between-explicit-survey-and-text-analysis-for-the-same-platform" class="slide level2">
 <h2>Close correspondence between explicit survey and text analysis for the same platform</h2>
-</section>
+
+<img data-src="plot_twopanels-1.svg" class="r-stretch quarto-figure-center"></section>
 <section id="preregistration" class="slide level2">
 <h2>Preregistration</h2>
 <p>Extension of the analysis to another platform (Twitter)</p>
 <p>We wanted to see if this a platform effect or if it generalises</p>
-<p>Pre-registered a study with Twitter data</p>
-<p>Replication</p>
-</section>
+<p>Pre-registered the same study with Twitter data</p>
+
+<img data-src="as_predicted.png" class="r-stretch quarto-figure-center"></section>
+<section id="close-correspondence-between-explicit-survey-and-text-analysis-also-for-twitter" class="slide level2">
+<h2>Close correspondence between explicit survey and text analysis also for Twitter</h2>
+
+<img data-src="plot_twopanels_twitter.svg" class="r-stretch quarto-figure-center"></section>
 <section id="components" class="slide level2">
 <h2>Components</h2>
 <p>ADD TABLE</p>
@@ -482,10 +501,6 @@ Tweets from Austria (data on location from Brandwatch)</p>
 <h2>External Validations</h2>
 
 <img data-src="scattercases-1.svg" class="r-stretch"></section>
-<section id="methods-to-use" class="slide level2">
-<h2>Methods to use</h2>
-<p>HUGGING FACE HUB LINKS</p>
-</section>
 <section id="publications" class="slide level2">
 <h2>Publications</h2>
 <div class="columns">

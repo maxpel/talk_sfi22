@@ -5,15 +5,13 @@ date: "2022/05/09, Santa Fe Institute <br> Slides vailable at: https://mpellert.
 format:
   revealjs:
     preview-links: auto
-    # footer: Santa Fe Institute 2022
-    # logo: test.png
 css: adds.css
-editor: visual
+editor: source
 editor_options: 
   chunk_output_type: console
 ---
 
-## Max Pellert
+## Me
 
 Background: economics, (psychology) and cognitive science
 
@@ -78,25 +76,31 @@ And many many more...
 
 ## Sentiment Analysis
 
-Has gotten a somewhat bad name
+Has gotten a somewhat bad name: "Why don't we run something on the text?"
 
-"Why don't we run something on the text?"
+Often conceptually flawed + noisy data + inadequate annotation schemes to create many different tools
 
-Often conceptually flawed + noisy data + inadequate annotation schemes to create tools
+Results can be cherry-picked by optimizing the tool
 
-Results can be cherry-picked by optimizing the tool (so many available, broad range of quality)
+But, used right it can be a valuable research instrument
 
-But, used right it can be valuable research instrument
+:::{layout-ncol="3"}
+![](sentiment1.jpeg)
 
-## Sentiment Analysis Evidence
+![](sentiment3.jpeg)
 
-Individual text level (for example a single tweet): Not reliable, sarcasm, irony, performative nature of social media, we need a substantial number of texts to get through the noise (especially with dictionary methods, also base rates are low)
+![](sentiment2.jpeg)
+:::
 
-Individual person level: Associations sometimes higher (for example for depression: Eichstaedt et al., 2018) and sometimes lower (PANAS scale: Beasley & Mason, 2015) with personality traits
+## Sentiment Analysis Evidence {.smaller}
+
+Individual text level (for example a single tweet): Not reliable, sarcasm, irony, performative nature of social media: we need a substantial number of texts to get through the noise (especially with dictionary methods, also base rates are low)
+
+Individual person level: Associations sometimes higher (for example for depression: Eichstaedt et al., 2018) and sometimes lower (PANAS scale: Beasley & Mason, 2015) with (rather) stable personality traits
 
 Group level (geographical): Debated, for example Twitter heart disease study (Eichstaedt et al., 2015), methods have to be validated and checked for robustness (Jaidka et al., 2020)
 
-Our contribution: *Macroscopic* validation
+<h3> Our contribution: *Macroscopically* validating if we are able to capture momentary feeling of a population on a daily level </h3>
 
 ## World Happiness Report
 
@@ -162,7 +166,7 @@ We subtract baseline corrected negative from baseline corrected positive on the 
 
 Baseline period from "2020-03-16" to "2020-04-20"
 
-Compare to: Proportion of positive in the survey
+Compare to: % of positive in the survey
 
 ::: aside
 Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., & Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85--98. https://doi.org/10.1026/0012-1924.54.2.85
@@ -172,15 +176,24 @@ Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broa
 
 ## Close correspondence between explicit survey and text analysis for the same platform
 
+![](plot_twopanels-1.svg){fig-align="center"}
+
 ## Preregistration
 
 Extension of the analysis to another platform (Twitter)
 
 We wanted to see if this a platform effect or if it generalises
 
-Pre-registered a study with Twitter data
+Pre-registered the same study with Twitter data
 
-Replication
+![](as_predicted.png){fig-align="center"}
+
+
+## Close correspondence between explicit survey and text analysis also for Twitter
+
+![](plot_twopanels_twitter.svg){fig-align="center"}
+
+
 
 ## Components
 
@@ -193,10 +206,6 @@ ADD TABLE
 ## External Validations
 
 ![](scattercases-1.svg)
-
-## Methods to use
-
-HUGGING FACE HUB LINKS
 
 ## Publications
 
@@ -232,7 +241,3 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- TO DO: -->
 
 <!-- * website section TALKS -->
-
-<!-- * move "aside" down a little bit -->
-
-<!-- * copy content from google slides talk (insert graphics directly as svg) -->
