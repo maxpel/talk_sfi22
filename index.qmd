@@ -22,50 +22,40 @@ PhD from the Complexity Science Hub Vienna (Medical University of Vienna)
 
 ## Basics: Extracting Signals from Text
 
-One example: **Linguistic Inquiry and Word Count, LIWC (pronounced “Luke”)**  
-Simple word matching method  
-Generated and validated by psychologists (Pennebaker et al., 2001-2022)  
+One example: **Linguistic Inquiry and Word Count, LIWC (pronounced "Luke")**\
+Simple word matching method\
+Generated and validated by psychologists (Pennebaker et al., 2001-2022)
 
 ::: columns
-
 ::: {.column width="50%"}
 ![](LIWC.png)
 :::
 
 ::: {.column width="50%"}
-**Examples of LIWC classes:**  
-Positive Affect, Negative Affect  
-Anxiety, Sadness, Anger  
+**Examples of LIWC classes:**\
+Positive Affect, Negative Affect\
+Anxiety, Sadness, Anger\
 Social processes
 :::
-
 :::
 
 ## Basics: Extracting Signals from Text
 
-More advanced examples using deep learning  
-Classifiers based on transformer architectures (roBerta)  
-Large general purpose language models adapted to the task of emotion classification 
+More advanced examples using deep learning\
+Classifiers based on transformer architectures (roBerta)\
+Large general purpose language models adapted to the task of emotion classification
 
 ::: columns
-
 ::: {.column width="50%"}
-![](model1.png)
-![](german_sentiment.png)
+![](model1.png) ![](german_sentiment.png)
 :::
 
 ::: {.column width="50%"}
-![](model2.png)
-https://huggingface.co/maxpe
-https://huggingface.co/oliverguhr/german-sentiment-bert
+![](model2.png) https://huggingface.co/maxpe https://huggingface.co/oliverguhr/german-sentiment-bert
 
 And endless more...
 :::
-
-
-
 :::
-
 
 ## Sentiment Analysis
 
@@ -99,8 +89,7 @@ New: macroscopic validations
 ::: {.column width="60%"}
 Metzler, H., Pellert, M., & Garcia, D. (2022). Using Social Media Data to Capture Emotions Before and During COVID-19 (World Happiness Report 2022). [https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/](https://worldhappiness.report/ed/2022/using-social-media-data-to-capture-emotions-before-and-during-covid-19/){preview-link="false"}
 
-![](davidhannah.svg){width=40% fig-align="center"}
-
+![](davidhannah.svg){width="40%" fig-align="center"}
 :::
 :::
 
@@ -120,7 +109,7 @@ All Tweets from Austria (data on location from Brandwatch)
 
 ## Mood Survey
 
-Survey on yesterday’s emotional state for 20 days in November 2020
+Survey on yesterday's emotional state for 20 days in November 2020
 
 "How was your last day" ("Wie war der letzte Tag?")
 
@@ -136,14 +125,12 @@ Combination of dictionary based and deep learning (RoBERTa) based sentiment anal
 
 LIWC and German Sentiment
 
-These were the only two tools used, no cherry-picking of the methods (see preregistration)  
-
-
+These were the only two tools used, no cherry-picking of the methods (see preregistration)
 
 ::: aside
-Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., & Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85
+Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., & Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85--98. https://doi.org/10.1026/0012-1924.54.2.85
 
-Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620–1625. https://www.aclweb.org/anthology/2020.lrec-1.202/
+Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620--1625. https://www.aclweb.org/anthology/2020.lrec-1.202/
 :::
 
 ## Preregistration
@@ -154,69 +141,75 @@ HUGGING FACE HUB LINKS
 
 ## Publications
 
-::: {.columns}
-
-::: {.column width=42.5%}
-Preprint
-(about to be published in Scientific Reports)
+::: columns
+::: {.column width="42.5%"}
+Preprint (about to be published in Scientific Reports)
 
 ![](){fig-align="center"}
 :::
 
-::: {.column width=5%}
+::: {.column width="5%"}
 :::
 
-::: {.column width=42.5%}
+::: {.column width="42.5%"}
 Book chapter outlining research program
 
 ![](bookchapter.svg){fig-align="center"}
 
 ::: aside
+Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 \[Cs\]. http://arxiv.org/abs/2108.07646
 
-Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 [Cs]. http://arxiv.org/abs/2108.07646
-
-Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp. 240–255). Routledge. https://doi.org/10.4324/9781003024583-18 {.smaller}
+Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp. 240--255). Routledge. https://doi.org/10.4324/9781003024583-18 {.smaller}
 :::
 :::
-
 :::
-
 
 ## End
 
-[https://mpellert.at](https://mpellert.at)
+<https://mpellert.at>
 
 ![](webpage.png){fig-align="center"}
 
-
 <!-- ## New Publications {.smaller} -->
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="40%"} -->
+
 <!-- ![](emotion_preprint.svg) -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="60%"} -->
+
 <!-- Metzler, H., Rimé, B., Pellert, M., Niederkrotenthaler, T., Di Natale, A., & Garcia, D. (2021). Collective Emotions during the COVID-19 Outbreak \[Preprint\]. PsyArXiv. https://doi.org/10.31234/osf.io/qejxv -->
 
 <!-- Will be published in Emotion in the next days. -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ## New Publications {.smaller} -->
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="40%"} -->
+
 <!-- ![](macroscopes.png) -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="60%"} -->
+
 <!-- Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 \[Cs\]. <http://arxiv.org/abs/2108.07646> -->
 
 <!-- Currently: (Re-)Submitted after Revision Round 1 to Scientific Reports. -->
 
 <!-- About to be published. -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ## Conference Submissions -->
@@ -226,6 +219,7 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- ## Conference Submissions -->
 
 <!-- ::: r-stack -->
+
 <!-- ![](sunbelt.png){.fragment} -->
 
 <!-- ![](sunbelt_accepted.png){.fragment .fade-in-then-out} -->
@@ -233,6 +227,7 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- ![](ic2s2.svg){.fragment .fade-in-then-out} -->
 
 <!-- ![](netsci.svg){.fragment .fade-in-then-out} -->
+
 <!-- ::: -->
 
 <!-- ## Enriched Sentiment Analysis -->
@@ -246,13 +241,19 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- ### Difference between fake and not (articles) -->
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="50%"} -->
+
 <!-- ![](bootstrap_comparison_fake_nonfake_feelit.svg) -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="50%"} -->
+
 <!-- ![](bootstrap_comparison_fake_nonfake_liwc.svg) -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ## Distributed Trust Recap -->
@@ -286,13 +287,19 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- ## Distributed Trust & Enriched Sentiment Analysis -->
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="50%"} -->
+
 <!-- ![](diffrating_split_01.svg) -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="50%"} -->
+
 <!-- ![](diffrating_split_005.svg) -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- ## Distributed Trust Outlook -->
@@ -302,7 +309,9 @@ Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affecti
 <!-- -   Tried imputation techniques from phylogenetic analysis -->
 
 <!--     -   Additive and ultrametric procedure -->
+
 <!--     -   More advanced than mean imputations -->
+
 <!--     -   Different use case: much more sparse then the distance matrices they usually use -->
 
 <!-- -   Strategies to address the "Cold Start" problem? -->
