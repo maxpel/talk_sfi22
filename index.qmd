@@ -108,7 +108,15 @@ Active forum with many postings below news articles
 
 **Twitter**
 
-All Tweets from Austria (data on location from Brandwatch)
+Tweets from Austria (data on location from Brandwatch)
+
+:::{layout-ncol=2}
+
+![](tweet_example.ai.svg)
+
+![](DerStandard.at_Logo.svg)
+
+:::
 
 ## Mood Survey
 
