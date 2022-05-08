@@ -207,7 +207,7 @@ ADD TABLE
 
 ![](scattercases-1.svg)
 
-## Publications
+## Publications {.smaller}
 
 ::: columns
 ::: {.column width="42.5%"}
