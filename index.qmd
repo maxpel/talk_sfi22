@@ -13,7 +13,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Me
+## Max Pellert
 
 Background: economics, (psychology) and cognitive science
 
@@ -21,7 +21,21 @@ PhD from the Complexity Science Hub Vienna (Medical University of Vienna)
 
 Currently: Sony CSL Rome, Italy
 
+Happy to talk about projects
 
+Text analysis, affective science and beyond
+
+Broadly interested in the social sciences
+
+:::{layout-ncol=3}
+
+![](sonycsl-logo.svg)
+
+![](Meduni-wien.svg)
+
+![](CSH_Logo_Blue.svg)
+
+:::
 
 ## Basics: Extracting Signals from Text
 
