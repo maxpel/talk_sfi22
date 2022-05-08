@@ -1,24 +1,27 @@
 ---
 title: "Validating daily social media macroscopes of emotions"
-date: 'May 9th, 2022'
-author: "Max Pellert"
+author: "Max Pellert <br> Sony CSL Rome"
+date: "2022/05/09, Santa Fe Institute <br> Slides vailable at: https://mpellert.at/talk_sfi22/"
 format:
   revealjs:
     preview-links: auto
     # footer: Santa Fe Institute 2022
     # logo: test.png
+css: adds.css
 editor: visual
 editor_options: 
   chunk_output_type: console
 ---
-
-<!-- It is typically a 45 minute seminar and 15 minutes of questions. -->
 
 ## Me
 
 Background: economics, (psychology) and cognitive science
 
 PhD from the Complexity Science Hub Vienna (Medical University of Vienna)
+
+Currently: Sony CSL Rome, Italy
+
+
 
 ## Basics: Extracting Signals from Text
 
