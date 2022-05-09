@@ -80,7 +80,7 @@ Has gotten a somewhat bad name: "Why don't we run something on the text?"
 
 Often conceptually flawed + noisy data + inadequate annotation schemes to create many different tools
 
-Results can be cherry-picked by optimizing the tool
+Results can be cherry-picked by optimizing on the tool
 
 But, used right it can be a valuable research instrument
 
@@ -162,17 +162,25 @@ Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broa
 
 ## Text analysis
 
+268,128 survey responses between November 11th and 30th, 2020
+
+11,082 unique users and 743,003 postings on derstandard.at during the survey period
+
+11,237 unique users and 635,185 tweets for Twitter
+
 We subtract baseline corrected negative from baseline corrected positive on the texts of each day
 
-Baseline period from "2020-03-16" to "2020-04-20"
+Baseline period from "2020-03-16" to "2020-04-20", first COVID-19 lockdown in Austria
+
+## Text analysis
+
+To match the range of the survey question, we take a three day rolling average (right-aligned)
+
+This way we account for people answering the survey in the evening/night with different reference points to "yesterday"
 
 Compare to: % of positive in the survey
 
-::: aside
-Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., & Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85--98. https://doi.org/10.1026/0012-1924.54.2.85
-
-Guhr, O., Schumann, A.-K., Bahrmann, F., & Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620--1625. https://www.aclweb.org/anthology/2020.lrec-1.202/
-:::
+![](lockdown2.png)
 
 ## Close correspondence between explicit survey and text analysis for the same platform
 
@@ -232,7 +240,7 @@ Book chapter outlining the connected research program:
 ::: aside
 Pellert, M., Metzler, H., Matzenberger, M., & Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 \[Cs\]. http://arxiv.org/abs/2108.07646
 
-Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp. 240--255). Routledge. https://doi.org/10.4324/9781003024583-18 {.smaller}
+Pellert, M., Schweighofer, S., & Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp. 240--255). Routledge. https://doi.org/10.4324/9781003024583-18
 :::
 :::
 :::

@@ -385,7 +385,7 @@ Large general purpose language models adapted to the task of emotion classificat
 <h2>Sentiment Analysis</h2>
 <p>Has gotten a somewhat bad name: “Why don’t we run something on the text?”</p>
 <p>Often conceptually flawed + noisy data + inadequate annotation schemes to create many different tools</p>
-<p>Results can be cherry-picked by optimizing the tool</p>
+<p>Results can be cherry-picked by optimizing on the tool</p>
 <p>But, used right it can be a valuable research instrument</p>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
@@ -466,14 +466,19 @@ Tweets from Austria (data on location from Brandwatch)</p>
 </div></aside></section>
 <section id="text-analysis-1" class="slide level2">
 <h2>Text analysis</h2>
+<p>268,128 survey responses between November 11th and 30th, 2020</p>
+<p>11,082 unique users and 743,003 postings on derstandard.at during the survey period</p>
+<p>11,237 unique users and 635,185 tweets for Twitter</p>
 <p>We subtract baseline corrected negative from baseline corrected positive on the texts of each day</p>
-<p>Baseline period from “2020-03-16” to “2020-04-20”</p>
+<p>Baseline period from “2020-03-16” to “2020-04-20”, first COVID-19 lockdown in Austria</p>
+</section>
+<section id="text-analysis-2" class="slide level2">
+<h2>Text analysis</h2>
+<p>To match the range of the survey question, we take a three day rolling average (right-aligned)</p>
+<p>This way we account for people answering the survey in the evening/night with different reference points to “yesterday”</p>
 <p>Compare to: % of positive in the survey</p>
 
-<aside><div>
-<p>Wolf, M., Horn, A. B., Mehl, M. R., Haug, S., Pennebaker, J. W., &amp; Kordy, H. (2008). Computergestützte quantitative Textanalyse: Äquivalenz und Robustheit der deutschen Version des Linguistic Inquiry and Word Count. Diagnostica, 54(2), 85–98. https://doi.org/10.1026/0012-1924.54.2.85</p>
-<p>Guhr, O., Schumann, A.-K., Bahrmann, F., &amp; Böhme, H. J. (2020). Training a broad-coverage german sentiment classification model for dialog systems. Proceedings of the 12th Language Resources and Evaluation Conference, 1620–1625. https://www.aclweb.org/anthology/2020.lrec-1.202/</p>
-</div></aside></section>
+<img data-src="lockdown2.png" class="r-stretch"></section>
 <section id="close-correspondence-between-explicit-survey-and-text-analysis-for-the-same-platform" class="slide level2">
 <h2>Close correspondence between explicit survey and text analysis for the same platform</h2>
 
@@ -528,7 +533,7 @@ Tweets from Austria (data on location from Brandwatch)</p>
 </div>
 <aside><div>
 <p>Pellert, M., Metzler, H., Matzenberger, M., &amp; Garcia, D. (2021). Validating daily social media macroscopes of emotions. ArXiv:2108.07646 [Cs]. http://arxiv.org/abs/2108.07646</p>
-<p>Pellert, M., Schweighofer, S., &amp; Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, &amp; L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp.&nbsp;240–255). Routledge. https://doi.org/10.4324/9781003024583-18 {.smaller}</p>
+<p>Pellert, M., Schweighofer, S., &amp; Garcia, D. (2021). Social Media Data in Affective Science. In U. Engel, A. Quan-Haase, S. X. Liu, &amp; L. Lyberg (Eds.), Handbook of Computational Social Science, Volume 1: Theory, Case Studies and Ethics (1st ed., pp.&nbsp;240–255). Routledge. https://doi.org/10.4324/9781003024583-18</p>
 </div></aside></section>
 <section id="end" class="slide level2">
 <h2>End</h2>
